@@ -10,13 +10,11 @@ Este repositorio incluye ejercicios relacionados con los siguientes temas:
 
 - 🔢 **Algoritmos de Ordenamiento**: 
   - QuickSort, MergeSort, HeapSort, etc.
-- 🌲 **Algoritmos en Árboles y Grafos**:
-  - Búsqueda en Profundidad (DFS), Búsqueda en Anchura (BFS), Dijkstra, Kruskal, Prim.
 - 💡 **Algoritmos Greedy**:
   - Problema de la mochila, Prim, Kruskal.
 - 📐 **Programación Dinámica**:
   - Fibonacci, Subconjunto más cercano a la suma, Caminos mínimos.
-- 🧩 **Dividir y Vencerás**:
+- 🧩 **Divide y Vencerás**:
   - Merge Sort, Quick Sort, Problema de la Torre de Hanoi.
 - ⚖️ **Backtracking**:
   - N-Reinas, Problema del Sudoku.
