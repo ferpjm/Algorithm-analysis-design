@@ -11,9 +11,9 @@ Este repositorio está organizado en las siguientes categorías:
 - 🌲 **Backtracking (BT)**:
   - Problemas como N-Reinas, Sudoku, Subconjuntos, etc.
 - ⚔️ **Dividir y Vencerás (DyV)**:
-  - Implementaciones de algoritmos como QuickSort, MergeSort, y la búsqueda binaria.
+  - Implementaciones de algoritmos como , MergeSort, y la búsqueda binaria.
 - 💡 **Algoritmos Voraces**:
-  - Ejercicios como el problema de la mochila, selección de actividades, y problemas de optimización.
+  - Ejercicios como selección de actividades, y problemas de optimización.
 - 🔁 **Recursividad**:
   - Ejemplos de recursión como Fibonacci, Torre de Hanoi, y cálculo de potencias.
 
